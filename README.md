@@ -1,2 +1,2 @@
 # simple-summary-of-perl
-A simple summary of very basic things in Perl.
+A simple summary I wrote about Perl back when I thought I liked Perl.
